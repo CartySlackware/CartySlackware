@@ -1,23 +1,8 @@
-# ✨ Olá, mundo!  ✨
+### Olá mundo! Eu sou o Carty Slackware! 🫡
+Seja bem vindo ao meu perfil.
 
-Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma amostra do meu trabalho e projetos pessoais. 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carty.slackware?igsh=NGVhN2U2NjQ0Yg==)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CTwqaHqq)
 
-## Quem sou eu?
-
-Eu me chamo Carty Slackware, esse é o meu pseudônimo. Nome apenas para os mais próximos, pois adoro manter uma atmosfera misteriosa e intrigante. Sou um entusiasta da área de desenvolvimento de software, segurança da informação e programação. 
-
-## O que você encontrará neste perfil?
-
-Neste perfil, estarei compartilhando uma variedade de projetos que explorei ao longo do tempo. Como sou uma pessoa curiosa e inquieta, é possível encontrar desde pequenos scripts até projetos mais complexos. Estou sempre em busca de desafios e novas oportunidades para aprimorar minhas habilidades de codificação.
-
-## O que me motiva?
-
-Minha paixão pela tecnologia e programação me motiva a progredir e aprender constantemente. Acredito que a criação de soluções eficientes e elegantes para os problemas do mundo real é uma forma de deixar minha marca e impactar positivamente a sociedade. 
-
-## Contato
-
-Você pode entrar em contato comigo pelo meu instagram, https://www.instagram.com/carty.slackware?igsh=NGVhN2U2NjQ0Yg==, caso queira trocar ideias ou discutir colaborações em projetos interessantes. Ficarei muito feliz em receber mensagens e conhecer novas pessoas.
-
-## Conclusão
-
-Agradeço por visitar meu perfil e espero que você encontre algo interessante aqui. Sinta-se à vontade para explorar meus repositórios e fornecer feedback sobre meu trabalho. Estou sempre buscando maneiras de melhorar minhas habilidades de programação e contribuir para a comunidade. Juntos, podemos construir um mundo digital mais empolgante e inovador!
+![CartySlackware'GitHub stats](https://github-readme-stats.vercel.app/api?username=CartySlackware&show_icons=true&theme=radical)
