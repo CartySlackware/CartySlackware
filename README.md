@@ -1,4 +1,4 @@
-# ✨Olá, mundo! ✨
+# ✨ Olá, mundo!  ✨
 
 Seja bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará uma amostra do meu trabalho e projetos pessoais. 
 
