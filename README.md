@@ -1,4 +1,4 @@
-## Olá mundo! Eu sou o Carty Slackware! 🫡
+# Olá mundo! Eu sou o Slackerman! 🫡
 Seja bem vindo ao meu perfil.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
